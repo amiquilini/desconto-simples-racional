@@ -13,8 +13,7 @@ def main(argv=None):
 
     Os módulos argparse e tabulate foram utilizadas na implementação deste código.
     Caso seja necessário instalar os módulos citados, use:
-        - pip install argparse
-        - pip install tabulate
+        - pip install -r requirements.txt
 
     :argument: argumentos da linha de comando:
     -h (--help) help
