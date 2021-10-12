@@ -8,7 +8,6 @@ pip install -r requirements.txt
 
 ### Arguments
 ```python
-:argument: argumentos da linha de comando:
 -h (--help) help
 -p (--parcelas) número de parcelas.
 -t (--taxa) taxa mensal (Taxa SELIC por padrão).
